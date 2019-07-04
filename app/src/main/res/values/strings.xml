@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P08PS_Map</string>
+
+    <string-array name="areaItems">
+        <item>NORTH</item>
+        <item>CENTRAL</item>
+        <item>EAST</item>
+    </string-array>
+
+</resources>
